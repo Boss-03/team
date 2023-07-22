@@ -1,0 +1,100 @@
+.body{
+    text-align: center;
+}
+.but1{
+    box-shadow: -32px -17px 33px 1px rgba(34, 60, 80, 0.38);
+    margin-top: 6%;
+    border: none;
+    width: 175px;
+    padding: 7px;
+    border-radius: 6px;
+}
+.tex{
+
+}
+.but{
+    border-radius: 12px;
+    padding-left: 50px;
+}
+.but-2{
+    padding: 8px;
+    border: none;
+    color: aliceblue;
+    background-color: black;
+        border-radius: 8px;
+}
+.but2{
+    margin-top: -15%;
+    margin-left: 100%;
+    padding-left: 17px;
+}
+.container{
+    width: 90%;
+    /* background-color: rgb(245, 242, 238); */
+    margin-left: 21%;
+    display: inline-flex;
+    text-align: center;
+}
+.con{
+    padding-top: 3%;
+    margin-left: 37%;
+}
+.icone{
+    padding-top: 3%;
+    margin-left: 21%;
+}
+.ic{
+    display: inline;
+}
+.ic2{
+    margin-top: -47px;
+    margin-left: 95px;
+}
+.ic-2{
+    list-style: none;
+    display: inline-flex;
+     gap: 8%;
+}
+.image{
+    margin-left: 35%;
+    gap: 25px;
+    display: inline-flex;
+}
+.image-4{
+    margin-left: -10%;
+}
+.puff{
+    font-size: 31px ;
+    text-align: center;
+}
+.foto{
+    text-align: center;
+}
+.t-1{
+    padding-left: -10px;
+    margin-left: -1123px;
+}
+.tup{
+    display: inline-flex;
+    text-align: center;
+}
+.tup1{
+    gap: 25px;
+    display: inline-flex;   
+    margin-left: 505px;
+}
+.tup-1{
+    margin-left: 15%;
+     width: 20%;
+    margin-top: 12%;
+    display: inline-flex;
+}
+.tup1-1{
+    font-weight: 700;
+    gap: 35px;
+    font-size: 38px;   
+}
+.a-1{
+    text-decoration: none;
+    border-bottom: 2px solid rgb(114, 107, 107);
+}
