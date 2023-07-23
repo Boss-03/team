@@ -9,8 +9,27 @@
     padding: 7px;
     border-radius: 6px;
 }
-.tex{
-
+.ip1{
+    text-align: center;
+}
+.go{
+    text-align: center;
+}
+.ipi1{
+    text-align: center;
+}
+.ip-2{
+    margin-left: 50%;
+}
+.ip2{
+    display: inline-flex;
+    margin-left: 15%;
+}
+.image-2{
+    width: 100%;
+}
+.image-3{
+    width: 100%;
 }
 .but{
     border-radius: 12px;
@@ -97,4 +116,57 @@
 .a-1{
     text-decoration: none;
     border-bottom: 2px solid rgb(114, 107, 107);
+}
+.tex-2{
+ width: 90%;
+}
+
+.full{
+    margin-top: 70px;
+}
+.fl1-1{
+    padding-top: 15px;
+}
+.fl{
+    margin-left: 25px;
+    padding-left: 25px;
+   display: inline-flex;
+}
+.fl-1{
+   list-style: none;  
+}
+.fl2{
+    margin-left: 125px;
+    padding-left: 25px;
+    display: inline-flex;
+}
+.fl-2{
+    list-style: none;
+}
+.fl3{
+    margin-left: 175px;
+    padding-left: 25px;
+    display: inline-flex;
+}
+.fl-3{
+    list-style: none;
+}
+.fl4{
+    margin-left: 145px;
+    padding-left: 25px;
+    display: inline-flex;
+}
+.fl-4{
+    list-style: none;
+}
+.end{
+    display: inline-flex;
+}
+.end2{
+    margin-left: 283px;
+    display: inline-flex;
+}
+.end3{
+    margin-left: 500px;
+    display: inline-flex;
 }
