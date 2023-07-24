@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Karma&family=Raleway:ital,wght@0,200;0,500;1,100&family=Sintony&family=Source+Code+Pro:wght@200&family=Source+Sans+3:wght@200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color:#161617;
+    color: white;
+
+    position: fixed;
+    width: 100%;
+    font-size: 10px;
+}
+.lii{
+    width: Hug (51px);
+    height: Hug (44px);
+    padding: 12px 48px 0px 8px; 
+    list-style-type: none;
+  
+}
+.img1{
+    font-size: 10px;
+    padding-right: 48px;
+    padding: 0px 48px 0px 8px;
+}
+.c{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.text1{
+    background-color:white ;
+    width: 100%;
+    height: 176px;
+    background: #ffffff;
+    
+
+
+
+}
+.t1{
+  
+display: flex;
+justify-content: center;
+}
+.p1{
+width: 239px;
+
+top: 35px;
+display: flex;
+justify-content: center;
+font-family: Inter;
+font-size: 30px;
+font-weight: 600;
+line-height: 60px;
+letter-spacing: -0.2800000011920929px;
+padding-top: 35px;
+}
