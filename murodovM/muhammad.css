@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+.navbar img {
+    width: 1920px;
+    height: 132px;
+    margin-left: -200px;
+}
+.navbar h1 {
+    width: 267px;
+    height: 16px;
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 1000;
+    margin-left: 40%;
+    color: rgba(29, 29, 31, 1);
+}
+.navbar h2 {
+    width: 58px;
+    height: 16px;
+    font-size: 11px;
+    color: rgba(0, 102, 204, 1);
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    margin-left: 60%;
+    margin-top: -15px;
+    position: absolute;
+}
+
+
+.wrapper {
+    background-image: url(./Picture.png);
+    width: 1520px;
+    height: 820px;
+}
+.wrapper h1 {
+    position: absolute;
+    margin-top: 320px;
+    font-weight: 900;
+    font-size: 19px;
+    margin-left: 723.06px;
+    color: rgba(0, 255, 65, 1);
+    font-family: 'Inter', sans-serif;
+}
+.wrapper h2 {
+    font-weight: 800;
+    font-size: 83px;
+    font-family: 'Inter', sans-serif;
+    color: rgba(245, 245, 247, 1);
+    margin-left: 524.42px;
+    position: absolute;
+    margin-top: 350px;
+}
+.wrapper h3 {
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    position: absolute;
+    margin-left: 47%;
+    margin-top: 700px;
+    color: rgba(255, 255, 255, 1);
+}
+
+
+.photo {
+    background-image: url(./Picture\ ⏵\ airpods_3rd_gen__dhy5bknhvtqq_large.jpg.png);
+     width: 1520px;
+     height: 680px;
+     margin-top: 25px;
+}
+.photo h1 {
+    font-weight: 600;
+    font-size: 109px;
+    font-family: 'Inter', sans-serif;
+    color: rgba(29, 29, 31, 1);
+    position: absolute;
+    margin-left: 33%;
+    margin-top: 240px;
+}
+.photo h2 {
+    position: absolute;
+    margin-left: 41%;
+    margin-top: 370px;
+    font-size: 19px;
+    font-weight: 700;
+    color: rgba(29, 29, 31, 1);
+    font-family: 'Inter', sans-serif;
+}
+.photo h3 {
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 700px;
+    color: rgba(0, 102, 204, 1);
+}
+
+
+.amax {
+    background-image: url(./Section.png);
+    width: 1400px;
+    height: 746px;
+    margin-top: 50px;
+    gap: 69px;
+}
+
+
+.sect {
+    background-image: url(./Sectio.jpg);
+    width: 1800px;
+    height: 1410px;
+    margin-left: -180px;
+}
+
+
+.sections {
+    background-image: url(./Sections.png);
+    width: 980px;
+    height: 1398.59px;
+    margin-left: 260px;
+}
+
+
+.text {
+    background-image: url(./Section\ -\ Footnotes.png);
+    width: 980px;
+    height: 337px;
+    margin-left: 200px;
+}
+
+
+.teg {
+    background-image: url(./Navigation\ -\ Breadcrumbs.png);
+    width: 980px;
+    height: 57.34px;
+    margin-left: 200px;
+}
+
+
+.navig {
+    background-image: url(./Navigation\ -\ Apple\ Directory.png);
+    width: 980px;
+    height: 287px;
+    margin-left: 200px;
+}
